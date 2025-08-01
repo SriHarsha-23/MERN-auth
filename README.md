@@ -11,7 +11,7 @@ A full-stack authentication app built with the **MERN stack** (MongoDB, Express.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend:** React + Vite + Axios + Tailwind CSS
 - **Backend:** Express.js + MongoDB + Mongoose + JWT
@@ -29,7 +29,7 @@ A full-stack authentication app built with the **MERN stack** (MongoDB, Express.
 
 ---
 
-### 🔧 Setup
+###  Setup
 
 ```bash
 # Clone the repo
