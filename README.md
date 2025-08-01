@@ -51,3 +51,10 @@ npm install
 # Install client dependencies
 cd ../client
 npm install
+# In one terminal - server
+cd Server
+npm run dev
+
+# In another terminal - client
+cd client
+npm run dev
