@@ -1,6 +1,6 @@
 # MERN Authentication
 
-A full-stack authentication app built with the **MERN stack** (MongoDB, Express.js, React, Node.js). Supports:
+A full-stack authentication Website built with the **MERN stack** (MongoDB, Express.js, React, Node.js). Supports:
 
 -  User Registration
 -  Login/Logout
